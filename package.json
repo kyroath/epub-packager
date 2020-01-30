@@ -1,0 +1,18 @@
+{
+  "name": "@fkyroath/epub-packager",
+  "version": "1.0.0",
+  "description": "An epub packager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyroath/epub-packager.git"
+  },
+  "author": "kyroath",
+  "bugs": {
+    "url": "https://github.com/kyroath/epub-packager/issues"
+  },
+  "homepage": "https://github.com/kyroath/epub-packager#readme"
+}
